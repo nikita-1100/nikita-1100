@@ -23,7 +23,7 @@
 ## :keyboard: My last repositories 
 - <a href="https://github.com/nikita-1100/ProjectManagerApp">Spring Boot application Project Manager (Test task)</a>
 - <a href="https://github.com/nikita-1100/UserApplicationRegistrationSystem">Spring Boot application Registration System (Test Task)</a>
-- <a href="https://github.com/nikita-1100/Bartender105">API for database with cocktails</a>
+- <a href="https://github.com/nikita-1100/Bartender105">API database with cocktail recipes</a>
 - <a href="https://github.com/nikita-1100/mreo_microservis">Spring Cloud application with Eureka and Openfeign</a>
 
 ## :chart_with_upwards_trend: My stats 
